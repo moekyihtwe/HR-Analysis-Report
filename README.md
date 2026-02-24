@@ -8,7 +8,7 @@
 - Turnover Rate: 42.77% 
 - Majority of employees are Individual Contributors
 
-  ![department](images/depart)
+  ![department](images/departed)
 
 **Department Insights**
 - Largest departments: Software (783) and Sales (635)

@@ -38,7 +38,7 @@
 
 Turnover appears compensation and career-growth driven, not performance-driven.
 
-Management Structure
+**Management Structure**
 
 Workforce heavily weighted toward Individual Contributors (74%)
 
@@ -46,6 +46,6 @@ Smaller proportion of managers and directors
 
 Indicates flat organizational structure
 
-Overall Insight
+**Overall Insight**
 
 The organization has strong talent concentration in technical and sales functions but faces elevated turnover driven primarily by external opportunities and compensation competition. Retention strategy should focus on career growth and pay competitiveness.
